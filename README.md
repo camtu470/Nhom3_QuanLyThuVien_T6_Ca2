@@ -18,4 +18,14 @@ Tìm kiếm và Tra cứu Quản lý Mượn Trả
 Quản lý Người Dùng
 Thống kê và Báo cáo.
 ![image](https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785899/70754e4c-6ff7-4b15-8f44-d02ec2143266)
+Trang chủ Admin
+![image](https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785899/8b1ea2dd-6684-4206-866a-719f097622dd)
+Trang danh sách Sách
+![image](https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785899/3ce9f09a-df75-409d-b8ae-a25df8da7db2)
+Trang thể loại Sách
+![image](https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785899/8c54a3d6-8692-496b-8013-bb0519146456)
+Trang chủ Người dùng
+
+
+
 
