@@ -31,11 +31,11 @@
 <br><br>
 
 <h3>Giao diện độc giả</h3>
-![GitHub Logo]([https://github.githubassets.com/images/modules/logos_page/Octocat.png](https://f11-zpcloud.zdn.vn/5784785010316492913/2ff7dc8b6046b718ee57.jpg))
 
 ![image](https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785899/8c54a3d6-8692-496b-8013-bb0519146456)
 
 <h3>Giao diện Admin</h3>
+
 ![image](https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785899/70754e4c-6ff7-4b15-8f44-d02ec2143266)
 
 ![image](https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785899/8b1ea2dd-6684-4206-866a-719f097622dd)
