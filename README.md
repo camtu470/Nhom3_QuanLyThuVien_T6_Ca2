@@ -7,7 +7,7 @@
 |----------|----------|----------| ----------|
 | Nguyễn Hoàng Oanh |21DH111355 | Công nghệ phầm mềm | https://github.com/cher-r |
 | Võ Hoàng Mỹ An | 21DH113429 | Công nghệ phầm mềm | https://github.com/vohoangmyan |
-| Trương Thị Cẩm Tú| 21DH112125 | Công nghệ phầm mềm | 
+| Trương Thị Cẩm Tú| 21DH112125 | Công nghệ phầm mềm | https://github.com/camtu470 |
 
 
 <h2>Giới thiệu</h2><br>
