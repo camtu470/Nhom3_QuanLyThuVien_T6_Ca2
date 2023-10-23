@@ -2,8 +2,9 @@
 <h1>Tên đề tài : Quản lý thư viện 📚</h1>
 <h3>Giáo viên hướng dẫn : Nguyễn Tấn Khoa</h3>
 <h2>🚀Thành viên</h2>
-| Tên thành viên| MASV | Chuyên ngành| Liên kết github|
-|----------|----------|----------| ----------|
+
+| Tên thành viên| MASV | Chuyên ngành| Liên kết github |
+|----------|----------|----------|----------|
 | Nguyễn Hoàng Oanh |21DH111355 | Công nghệ phầm mềm | https://github.com/cher-r |
 | Võ Hoàng Mỹ An | 21DH113429 | Công nghệ phầm mềm | https://github.com/vohoangmyan |
 | Trương Thị Cẩm Tú| 21DH112125 | Công nghệ phầm mềm | https://github.com/camtu470 |
