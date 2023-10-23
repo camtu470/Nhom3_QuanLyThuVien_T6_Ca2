@@ -28,17 +28,17 @@
 <h4>Mượn - trả sách:</h4> Mượn trả sách, và liên hệ.Xem lịch sử mượn trả sách
 <h4>Tìm Kiếm:</h4> Tìm kiếm sách và người đọc một cách nhanh chóng với các tùy chọn tùy chỉnh.
 <h4>Quản lý thông tin cá nhân:</h4>Xem , chỉnh sửa thông tin cá nhân.
+<br><br>
 
+<h3>Giao diện độc giả</h3>
+![image](https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785899/8c54a3d6-8692-496b-8013-bb0519146456)
 
+<h3>Giao diện Admin</h3>
 ![image](https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785899/70754e4c-6ff7-4b15-8f44-d02ec2143266)
-Trang chủ Admin
+
 ![image](https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785899/8b1ea2dd-6684-4206-866a-719f097622dd)
 Trang danh sách Sách
 ![image](https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785899/3ce9f09a-df75-409d-b8ae-a25df8da7db2)
 Trang thể loại Sách
-![image](https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785899/8c54a3d6-8692-496b-8013-bb0519146456)
-Trang chủ Người dùng
-
-
 
 
