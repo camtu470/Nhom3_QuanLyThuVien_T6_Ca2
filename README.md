@@ -17,7 +17,7 @@
 
 | NGÔN NGỮ | HTML | CSS | PHP | BOOTSTRAP |
 |---------------|---------------|---------------|---------------|---------------|
-|MINH HỌA | <img src="https://geekofcoding.files.wordpress.com/2020/09/images.png" width="300" height="200">  | <img src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png" width="300" height="200"> |  <img src="https://th.bing.com/th/id/OIP.zeEkrWA3qYX0zZtlOMiU6wHaD7?pid=ImgDet&rs=1" width="300" height="200"> | <img src="https://th.bing.com/th/id/R.4620a7e6ca6b73bc78941c932d142adc?rik=32h85FpgRbuuUg&riu=http%3a%2f%2flogonoid.com%2fimages%2fbootstrap-logo.png&ehk=vZriWtnqQlrT0zV7Bku%2fJUjLldGsCk%2fm8DarITcpCXg%3d&risl=&pid=ImgRaw&r=0" width="300" height="200"> |
+|MINH HỌA | <img src="https://geekofcoding.files.wordpress.com/2020/09/images.png" width="350" height="200">  | <img src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png" width="400" height="200"> |  <img src="https://th.bing.com/th/id/OIP.zeEkrWA3qYX0zZtlOMiU6wHaD7?pid=ImgDet&rs=1" width="300" height="200"> | <img src="https://th.bing.com/th/id/R.4620a7e6ca6b73bc78941c932d142adc?rik=32h85FpgRbuuUg&riu=http%3a%2f%2flogonoid.com%2fimages%2fbootstrap-logo.png&ehk=vZriWtnqQlrT0zV7Bku%2fJUjLldGsCk%2fm8DarITcpCXg%3d&risl=&pid=ImgRaw&r=0" width="250" height="200"> |
 
 <h2>🚀Tính năng nổi bật</h2>
 <h4>Tối Ưu Hóa Quản Lý:</h4> Quản lý sách, độc giả, và mượn/trả dễ dàng hơn bao giờ hết với giao diện thân thiện và quản lý thông tin chi tiết.
