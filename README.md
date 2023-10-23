@@ -7,7 +7,7 @@
 |----------|----------|----------| ----------|
 | Nguyễn Hoàng Oanh |21DH111355 | Công nghệ phầm mềm | https://github.com/cher-r |
 | Võ Hoàng Mỹ An | 21DH113429 | Công nghệ phầm mềm | https://github.com/vohoangmyan |
-| Trương Thị Cẩm Tú| 21DH112125 | Công nghệ phầm mềm |
+| Trương Thị Cẩm Tú| 21DH112125 | Công nghệ phầm mềm | 
 
 
 <h2>Giới thiệu</h2><br>
@@ -22,6 +22,13 @@
 <h4>Quản lý Người Đọc:</h4> Theo dõi thông tin về người đọc, việc mượn trả sách, và liên hệ.
 <h4>Tìm Kiếm:</h4> Tìm kiếm sách và người đọc một cách nhanh chóng với các tùy chọn tùy chỉnh.
 <h4>Thống Kê Số Liệu:</h4>Xem thống kê và báo cáo về tình hình sử dụng thư viện.
+
+<h2>Ngôn ngữ</h2>
+
+| NGÔN NGỮ | HTML | CSS | PHP | BOOTSTRAP |
+|---------------|---------------|---------------|---------------|---------------|
+|MINH HỌA | <img src="https://geekofcoding.files.wordpress.com/2020/09/images.png" width="300" height="200">  | <img src="https://1000marcas.net/wp-content/uploads/2021/02/CSS-Logo.png" width="300" height="200"> |  <img src="https://th.bing.com/th/id/OIP.zeEkrWA3qYX0zZtlOMiU6wHaD7?pid=ImgDet&rs=1" width="300" height="200"> | <img src="https://th.bing.com/th/id/R.4620a7e6ca6b73bc78941c932d142adc?rik=32h85FpgRbuuUg&riu=http%3a%2f%2flogonoid.com%2fimages%2fbootstrap-logo.png&ehk=vZriWtnqQlrT0zV7Bku%2fJUjLldGsCk%2fm8DarITcpCXg%3d&risl=&pid=ImgRaw&r=0" width="300" height="200"> |
+
 
 <h3>Phía Độc giả : </h3>
 <h4>Quản lý Sách:</h4> Xem, lưu trữ sách. Hiển thị thông tin chi tiết về từng cuốn sách.
@@ -38,9 +45,6 @@
 
 ![image](https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785899/70754e4c-6ff7-4b15-8f44-d02ec2143266)
 
-![image](https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785899/8b1ea2dd-6684-4206-866a-719f097622dd)
-Trang danh sách Sách
-![image](https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785899/3ce9f09a-df75-409d-b8ae-a25df8da7db2)
-Trang thể loại Sách
+
 
 
