@@ -1,5 +1,5 @@
 <h1>Nhóm 3</h1> 
-<h1>Tên đề tài : Quản lý thư viện</h1>
+<h1>Tên đề tài : Quản lý thư viện 📚</h1>
 <h3>Giáo viên hướng dẫn : Nguyễn Tấn Khoa</h3>
 <h2>🚀Thành viên</h2>
 | Tên thành viên| MASV | Chuyên ngành| Liên kết github|
