@@ -3,10 +3,10 @@
 <h3>Giáo viên hướng dẫn : Nguyễn Tấn Khoa</h3>
 <br>
 
-| Tên thành viên| MASV | Chuyên ngành|
-|----------|----------|----------|
-| Nguyễn Hoàng Oanh |21DH111355 | Công nghệ phầm mềm |
-| Võ Hoàng Mỹ An | 21DH113429 | Công nghệ phầm mềm |
+| Tên thành viên| MASV | Chuyên ngành| Liên kết github|
+|----------|----------|----------| ----------|
+| Nguyễn Hoàng Oanh |21DH111355 | Công nghệ phầm mềm | https://github.com/cher-r |
+| Võ Hoàng Mỹ An | 21DH113429 | Công nghệ phầm mềm | https://github.com/vohoangmyan |
 | Trương Thị Cẩm Tú| 21DH112125 | Công nghệ phầm mềm |
 
 
