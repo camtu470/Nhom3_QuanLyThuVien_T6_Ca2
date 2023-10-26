@@ -33,6 +33,6 @@
 ![image](https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785899/70754e4c-6ff7-4b15-8f44-d02ec2143266)
 
 <h2>🚀 Hướng dẫn sử sụng </h2>
-sau khi hoàn thành tụi em sẽ dẫn link google drive tại đây
+sau khi hoàn thành tụi em sẽ dẫn link google drive hoặc link youtube demo tại đây
 
 
