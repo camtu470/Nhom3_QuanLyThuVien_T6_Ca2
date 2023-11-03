@@ -27,9 +27,9 @@
 
 <h2>Những tiến độ đã đạt được</h2>
 <h4>Tới thời điểm hiện tại thì nhóm đã phát triển khá hoàn chỉnh giao diện, hoàn thành các chức năng quản lý của Admin</h4>
-<h4>..sẽ bổ sung thêm..</h4>
+<h4>..sẽ bổ sung thêm..
 <h2>Hướng phát triển</h2>
-<h4>..sẽ bổ sung thêm..</h4>
+<h4>..sẽ bổ sung thêm..
 
 <h2>🚀Giao diện</h2>
 <h3>Giao diện độc giả</h3>
