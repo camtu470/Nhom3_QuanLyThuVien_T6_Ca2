@@ -23,6 +23,7 @@
 <h4>Tối Ưu Hóa Quản Lý:</h4> Quản lý sách, độc giả, và mượn/trả dễ dàng hơn bao giờ hết với giao diện thân thiện và quản lý thông tin chi tiết.</h4>
 <h4>Tìm Kiếm Nhanh Chóng:</h4>  Đa dạng các tùy chọn tìm kiếm để tìm sách và độc giả một cách nhanh chóng và hiệu quả.</h4>
 <h4>Thống Kê Thông Minh:</h4> Xem báo cáo và thống kê về hoạt động của thư viện để đưa ra quyết định thông minh.</h4>
+<h4>Hệ thống phân loại:</h4> Cho phép phân loại tài liệu theo nhiều tiêu chí như tác giả, thể loại, v.v.</h4>
 <h4>Bổ sung thêm , nói rõ ra.... </h4>
 
 <h2>Những tiến độ đã đạt được</h2>
