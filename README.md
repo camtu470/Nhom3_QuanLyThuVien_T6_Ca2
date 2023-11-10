@@ -24,15 +24,16 @@
 <h4>Tìm Kiếm Nhanh Chóng:</h4>  Đa dạng các tùy chọn tìm kiếm để tìm sách và độc giả một cách nhanh chóng và hiệu quả.</h4>
 <h4>Thống Kê Thông Minh:</h4> Xem báo cáo và thống kê về hoạt động của thư viện để đưa ra quyết định thông minh.</h4>
 <h4>Hệ thống phân loại:</h4> Cho phép phân loại tài liệu theo nhiều tiêu chí như tác giả, thể loại, v.v.</h4>
-<h4>Giao diện tương tác dễ dàng:</h4> Giao diện hệ thống độc đáo, tương tác với người dùng lâu dài mà không làm người dùng khó chịu, mang đến cảm giác dễ chịu khi làm việc</h4>
+<h4>Giao diện tương tác dễ dàng:</h4> Giao diện hệ thống độc đáo, tương tác với người dùng lâu dài mà không làm người dùng khó chịu, mang đến cảm giác dễ chịu khi làm việc.</h4>
 <h4>Bổ sung thêm , nói rõ ra.... </h4>
 
 <h2>Những tiến độ đã đạt được</h2>
 <h4>Tới thời điểm hiện tại thì nhóm đã phát triển khá hoàn chỉnh giao diện, hoàn thành các chức năng quản lý của Admin</h4>
-<h4>..sẽ bổ sung thêm..
+<h4>Hoàn thành chức năng thêm xóa sửa cho từng loại dữ liệu (sách, tài khoản độc giả, thể loại,...)</h4>
+<h4>Hoàn thành các chức năng cơ bản khi sử dụng hệ thống (đăng nhập, phần quyền,...)</h4>
+<h4>Hoàn thành giao diện khi làm việc với chức năng, giúp người dùng khi sử dụng hệ thống một cách dễ dàng</h4>
 <h2>Hướng phát triển</h2>
-<h4>..sẽ bổ sung thêm..
-
+<h4>Trong thời gian sắp tới, nếu như có cơ hội, nhóm sẽ phát triển những chức năng cao hơn: Thống kê số lượng sách được yêu thích thông qua sự yêu thích của độc giả và thống kê dưới dạng bảng, 
 <h2>🚀Giao diện</h2>
 <h3>Giao diện độc giả</h3>
 
