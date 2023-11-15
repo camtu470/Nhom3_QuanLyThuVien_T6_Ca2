@@ -28,12 +28,22 @@
 
 
 <h2>Những tiến độ đã đạt được</h2>
-<p>Tới thời điểm hiện tại thì nhóm đã phát triển khá hoàn chỉnh giao diện, hoàn thành các chức năng quản lý của Admin</p>
-<p>Hoàn thành chức năng thêm xóa sửa cho từng loại dữ liệu (sách, tài khoản độc giả, thể loại,...)</p>p
-<p>Hoàn thành các chức năng cơ bản khi sử dụng hệ thống (đăng nhập, phần quyền,...)</p>
-<p>Hoàn thành giao diện khi làm việc với chức năng, giúp người dùng khi sử dụng hệ thống một cách dễ dàng</p>
+
+- Giao diện trang admin, trang đọc giả
+- Các chức năng thêm xóa sửa cho từng loại dữ liệu (sách, tài khoản độc giả, thể loại,...)
+- Các chức năng cơ bản khi sử dụng hệ thống (đăng nhập, phần quyền,...)
+
+
 <h2>Hướng phát triển</h2>
-<h4>Trong thời gian sắp tới, nếu như có cơ hội, nhóm sẽ phát triển những chức năng cao hơn: Thống kê số lượng sách được yêu thích thông qua sự yêu thích của độc giả và thống kê dưới dạng bảng, 
+Trong thời gian sắp tới, nếu như có cơ hội, nhóm sẽ cố gắng phát triển thêm các tính năng để hệ thống hoàn thiện hơn.
+- Tích hợp ứng dụng trên nhiều nền tảng, chẳng hạn như trình duyệt web, ứng dụng di động để người dùng có thể truy cập dữ liệu từ mọi nơi.
+- Phát triển một giao diện người dùng thân thiện, dễ sử dụng và có khả năng tương tác cao.
+- Tích hợp hệ thống thông báo và nhắc nhở để người đọc không quên hạn trả sách.
+- Tính năng quản lý nợ cho người đọc vi phạm quy định mượn sách.
+- Tích hợp tính năng xã hội để người đọc có thể chia sẻ và thảo luận về sách, cho phép người dùng đưa ra đánh giá, góp ý, từ đó cải thiện hệ thống.
+- Tăng cường bảo mật để đảm bảo an toàn cho thông tin cá nhân và dữ liệu quản lý.
+- Cung cấp các tính năng đầy đủ để sao lưu và khôi phục dữ liệu.
+
 <h2>🚀Giao diện</h2>
 <h3>Giao diện độc giả</h3>
 
