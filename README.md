@@ -25,7 +25,7 @@
 <h4>Thống Kê Thông Minh:</h4> Xem báo cáo và thống kê về hoạt động của thư viện để đưa ra quyết định thông minh.</h4>
 <h4>Hệ thống phân loại:</h4> Cho phép phân loại tài liệu theo nhiều tiêu chí như tác giả, thể loại, v.v.</h4>
 <h4>Giao diện tương tác dễ dàng:</h4> Giao diện hệ thống độc đáo, tương tác với người dùng lâu dài mà không làm người dùng khó chịu, mang đến cảm giác dễ chịu khi làm việc.</h4>
-<h4>Bổ sung thêm , nói rõ ra.... </h4>
+
 
 <h2>Những tiến độ đã đạt được</h2>
 <h4>Tới thời điểm hiện tại thì nhóm đã phát triển khá hoàn chỉnh giao diện, hoàn thành các chức năng quản lý của Admin</h4>
