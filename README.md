@@ -36,14 +36,16 @@
 
 
 <h2>Hướng phát triển</h2>
+
 Trong thời gian sắp tới, nếu như có cơ hội, nhóm sẽ cố gắng phát triển thêm các tính năng để hệ thống hoàn thiện hơn.<br>
-- Tích hợp ứng dụng trên nhiều nền tảng, chẳng hạn như trình duyệt web, ứng dụng di động để người dùng có thể truy cập dữ liệu từ mọi nơi.<br>
-- Phát triển một giao diện người dùng thân thiện, dễ sử dụng và có khả năng tương tác cao.<br>
-- Tích hợp hệ thống thông báo và nhắc nhở để người đọc không quên hạn trả sách.<br>
-- Tính năng quản lý nợ cho người đọc vi phạm quy định mượn sách.<br>
-- Tích hợp tính năng xã hội để người đọc có thể chia sẻ và thảo luận về sách, cho phép người dùng đưa ra đánh giá, góp ý, từ đó cải thiện hệ thống.<br>
-- Tăng cường bảo mật để đảm bảo an toàn cho thông tin cá nhân và dữ liệu quản lý.<br>
-- Cung cấp các tính năng đầy đủ để sao lưu và khôi phục dữ liệu.<br>
+
+- Tích hợp ứng dụng trên nhiều nền tảng, chẳng hạn như trình duyệt web, ứng dụng di động để người dùng có thể truy cập dữ liệu từ mọi nơi.
+- Phát triển một giao diện người dùng thân thiện, dễ sử dụng và có khả năng tương tác cao.
+- Tích hợp hệ thống thông báo và nhắc nhở để người đọc không quên hạn trả sách.
+- Tính năng quản lý nợ cho người đọc vi phạm quy định mượn sách.
+- Tích hợp tính năng xã hội để người đọc có thể chia sẻ và thảo luận về sách, cho phép người dùng đưa ra đánh giá, góp ý, từ đó cải thiện hệ thống.
+- Tăng cường bảo mật để đảm bảo an toàn cho thông tin cá nhân và dữ liệu quản lý.
+- Cung cấp các tính năng đầy đủ để sao lưu và khôi phục dữ liệu.
 
 <h2>🚀Giao diện</h2>
 <h3>Giao diện độc giả</h3>
