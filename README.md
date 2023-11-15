@@ -28,10 +28,10 @@
 
 
 <h2>Những tiến độ đã đạt được</h2>
-<h4>Tới thời điểm hiện tại thì nhóm đã phát triển khá hoàn chỉnh giao diện, hoàn thành các chức năng quản lý của Admin</h4>
-<h4>Hoàn thành chức năng thêm xóa sửa cho từng loại dữ liệu (sách, tài khoản độc giả, thể loại,...)</h4>
-<h4>Hoàn thành các chức năng cơ bản khi sử dụng hệ thống (đăng nhập, phần quyền,...)</h4>
-<h4>Hoàn thành giao diện khi làm việc với chức năng, giúp người dùng khi sử dụng hệ thống một cách dễ dàng</h4>
+<p>Tới thời điểm hiện tại thì nhóm đã phát triển khá hoàn chỉnh giao diện, hoàn thành các chức năng quản lý của Admin</p>
+<p>Hoàn thành chức năng thêm xóa sửa cho từng loại dữ liệu (sách, tài khoản độc giả, thể loại,...)</p>p
+<p>Hoàn thành các chức năng cơ bản khi sử dụng hệ thống (đăng nhập, phần quyền,...)</p>
+<p>Hoàn thành giao diện khi làm việc với chức năng, giúp người dùng khi sử dụng hệ thống một cách dễ dàng</p>
 <h2>Hướng phát triển</h2>
 <h4>Trong thời gian sắp tới, nếu như có cơ hội, nhóm sẽ phát triển những chức năng cao hơn: Thống kê số lượng sách được yêu thích thông qua sự yêu thích của độc giả và thống kê dưới dạng bảng, 
 <h2>🚀Giao diện</h2>
