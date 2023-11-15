@@ -30,8 +30,9 @@
 <h2>Những tiến độ đã đạt được</h2>
 
 - Giao diện trang admin, trang đọc giả
-- Các chức năng thêm xóa sửa cho từng loại dữ liệu (sách, tài khoản độc giả, thể loại,...)
+- Các chức năng thêm xóa sửa cho từng loại dữ liệu (sách, tài khoản độc giả, thể loại,..)
 - Các chức năng cơ bản khi sử dụng hệ thống (đăng nhập, phần quyền,...)
+- Chức năng mượn - trả sách , thống kê ghi nhận sách hư hỏng , mất,...
 
 
 <h2>Hướng phát triển</h2>
