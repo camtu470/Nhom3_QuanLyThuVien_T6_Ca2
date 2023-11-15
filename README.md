@@ -54,7 +54,8 @@ Trong thời gian sắp tới, nếu như có cơ hội, nhóm sẽ cố gắng 
 
 <h3>Giao diện Admin</h3>
 
-![image](https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785899/70754e4c-6ff7-4b15-8f44-d02ec2143266)
+<img width="916" alt="image" src="https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785554/455cc954-ad4a-4f91-8956-c0d891401eeb">
+
 
 <h3>Giao diện nhập liệu</h3>
 <img width="902" alt="image" src="https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785554/3a3f5f97-ccd2-47c9-8fc2-4ddbee17c52a">
