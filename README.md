@@ -56,6 +56,10 @@ Trong thời gian sắp tới, nếu như có cơ hội, nhóm sẽ cố gắng 
 
 ![image](https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785899/70754e4c-6ff7-4b15-8f44-d02ec2143266)
 
+<h3>Giao diện nhập liệu</h3>
+<img width="902" alt="image" src="https://github.com/camtu470/Nhom3_QuanLyThuVien_T6_Ca2/assets/147785554/3a3f5f97-ccd2-47c9-8fc2-4ddbee17c52a">
+
+
 <h2>🚀 Hướng dẫn sử sụng </h2>
 sau khi hoàn thành tụi em sẽ dẫn link google drive hoặc link youtube demo tại đây
 
