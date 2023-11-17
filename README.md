@@ -46,6 +46,7 @@ Trong thời gian sắp tới, nếu như có cơ hội, nhóm sẽ cố gắng 
 - Tích hợp tính năng xã hội để người đọc có thể chia sẻ và thảo luận về sách, cho phép người dùng đưa ra đánh giá, góp ý, từ đó cải thiện hệ thống.
 - Tăng cường bảo mật để đảm bảo an toàn cho thông tin cá nhân và dữ liệu quản lý.
 - Cung cấp các tính năng đầy đủ để sao lưu và khôi phục dữ liệu.
+- Tích hợp tính năng thống kê sách hư hỏng , số lượng mượn.
 
 <h2>🚀Giao diện</h2>
 <h3>Giao diện độc giả</h3>
